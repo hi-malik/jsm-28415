@@ -42,3 +42,12 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+
+[youtube]: https://www.youtube.com/channel/UCB56-AiILovestYUPiGq8ng
+[instagram]: https://instagram.com/its_himanshu2000
+[linkedin]: https://www.linkedin.com/in/himanshu-malik-54728917a/
+[webdevplaylist]: https://www.youtube.com/
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
+[reactplaylist]: https://www.youtube.com/
