@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms
 - 📫 How to reach me: ... **jsm.28415@gmail.com**
-- ▶️ My YouTube channel: ... **CODE_CROSING** https://www.youtube.com/channel/UCB56-AiILovestYUPiGq8ng 
+- ▶️ My YouTube channel: ... **CODE_CROSING** 
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
 
 ### Connect with me:
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCB56-AiILovestYUPiGq8ng
 [instagram]: https://instagram.com/its_himanshu2000
 [linkedin]: https://www.linkedin.com/in/himanshu-malik-54728917a/
-[webdevplaylist]: https://www.youtube.com/
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+[webdevplaylist]: 
+[jsplaylist]: 
+[cssplaylist]: 
+[reactplaylist]: 
