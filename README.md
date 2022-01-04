@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Himanshu
 
 ###
 **jsm-28415/jsm-28415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...**Android App Develpoment**
 - 🌱 I’m currently learning ... **Kotlin**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms
 - 📫 How to reach me: ... **jsm.28415@gmail.com**
@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UCB56-AiILovestYUPiGq8ng
 [instagram]: https://instagram.com/its_himanshu2000
 [linkedin]: https://www.linkedin.com/in/himanshu-malik-54728917a/
-[webdevplaylist]: 
-[jsplaylist]: 
-[cssplaylist]: 
-[reactplaylist]: 
+
+<img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
