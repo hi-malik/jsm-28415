@@ -9,18 +9,26 @@
 ###
 **jsm-28415/jsm-28415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<div align="center">
+  
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Himanshu!;I'm+a+Software+Developer.;❤+Java+LeetCode+Kotlin;I+❤+DSA..)](https://git.io/typing-svg)
+</div>
+
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on ...**Android App Develpoment**
 - 🌱 I’m currently learning ... **Kotlin**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
-- 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms
+- 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 - 📫 How to reach me: ... **jsm.28415@gmail.com**
 - ▶️ My YouTube channel: ... **CODE_CROSING** 
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -66,7 +74,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/himanshu-malik-54728917a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
