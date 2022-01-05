@@ -2,9 +2,14 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif" height="175px"/></a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Himanshu</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Software Developer from United Kingdom.</h3>
 
+<p align="center">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Never Give Up…Even odds are against you!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+  
+  
 <!-- 
 ###
 **jsm-28415/jsm-28415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -96,3 +101,9 @@
 
 ## Watch my contribution graph get eaten by the snake 🐍
 ![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
+
+
+<div align="center">
+
+### 👩‍🚀🚀 Thank You for giving the time 😄 to view my GitHub  Profile 👩‍🚀 🚀
+</div>
