@@ -74,6 +74,10 @@
 
 </p>
 
+## My YouTube Channel
+
+<img align="left" alt="YouTube GIF" width="1000" height="576" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker.gif">
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jsm-28415">
