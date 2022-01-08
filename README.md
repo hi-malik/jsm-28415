@@ -6,7 +6,7 @@
 <h3 align="center">I'm a passionate Software Developer from United Kingdom.</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Never Give Up…Even odds are against you!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
   
   
