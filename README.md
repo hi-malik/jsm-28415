@@ -2,6 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/giphy.gif" height="175px"/></a>
 
 
+
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Software Developer from United Kingdom.</h3>
 
@@ -61,6 +62,9 @@
 </p>
 
 <!-- <img src = "https://github-readme-stats.vercel.app/api?username=jsm-28415&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=jsm-28415&column=8)](https://github-profile-trophy.vercel.app/?username=jsm-28415&column=8)
 
 ## 📊 My Github Stats
 
