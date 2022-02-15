@@ -25,8 +25,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...**Android App Develpoment**
-- 🌱 I’m currently learning ... **Kotlin**
+- 🔭 I’m currently working on ...**BlockChain**
+- 🌱 I’m currently learning ... **Web 3.0**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
