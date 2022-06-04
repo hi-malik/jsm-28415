@@ -82,7 +82,7 @@
 <br/>
 <br/>
 
-## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">
+## Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="38">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/himanshu-malik-54728917a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
