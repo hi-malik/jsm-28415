@@ -2,7 +2,7 @@
 <a href="#"><img width="1280" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/123224.gif" height="175px"/></a>
 
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> there, fellow DEVELOPER'S</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> there, fellow DEVELOPER'S</h1>
 <h3 align="center">I'm a passionate Software Developer from United Kingdom.</h3>
 
 <p align="center">
@@ -28,12 +28,12 @@
 - 🌱 I’m currently learning ... **Web 3.0**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
-- 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+- 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
 - 📫 How to reach me: ... **jsm.28415@gmail.com**
 - ▶️ My YouTube channel: ... **CODE_CROSING** 
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
 
-## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
