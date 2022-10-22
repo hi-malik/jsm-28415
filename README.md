@@ -105,7 +105,7 @@
 <a href="https://github.com/jsm-28415?tab=followers"><img src="https://img.shields.io/github/followers/jsm-28415?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## Watch my contribution graph get eaten by the snake 🐍
-![snake gif](https://github.com/jsm-28415/jsm-28415/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/br-lovanshi/br-lovanshi/blob/output/github-contribution-grid-snake.gif)
 
 
 <div align="center">
