@@ -32,7 +32,7 @@
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Android App Develpoment, Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
 - 📫 How to reach me: ... **jsm.28415@gmail.com**
-- ▶️ My YouTube channel: ... **CODE_CROSING** 
+- ▶️ My YouTube channel: ... **hi_malik** 
 - ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day**
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
